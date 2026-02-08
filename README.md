@@ -26,20 +26,16 @@
 ---
 
 ## 📌 Current Focus
-- Practicing **DSA daily using Java**
+- Practicing **DSA daily using c++**
 - Strengthening **problem-solving & logical thinking**
 - Improving **Core Java & OOP concepts**
-
----
-
-## 📊 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamTh951&show_icons=true&theme=default)
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/ShubhamTh951 
 - LinkedIn: https://www.linkedin.com/in/shubham-thakur-0b7b73286
+- Email: www.shubhamthakur80@gmail.com
 
 ---
 
