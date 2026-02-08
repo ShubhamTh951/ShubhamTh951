@@ -1,14 +1,14 @@
 # Hi 👋, I'm Shubham Thakur  
 
-🎓 B.Tech CSE Student  
-💻 Interested in Data Structures, Algorithms & Core CS  
-🚀 Currently improving problem-solving and coding skills  
+🎓 B.Tech Computer Science (3rd Year | 6th Semester)
+💻 Aspiring Software Engineer | Backend Development
+📍 India
 
 ---
 
 ## 👨‍💻 About Me
 - 🔹 Computer Science Engineering student  
-- 🔹 Strong interest in **DSA, C++, Java, and Core Subjects**  
+- 🔹 Strong interest in **C++, Java, and Core Subjects**  
 - 🔹 Learning by building projects and solving problems  
 - 🔹 Goal: Become a solid software engineer with strong fundamentals  
 
@@ -26,20 +26,20 @@
 ---
 
 ## 📌 Current Focus
-- Practicing **DSA daily**
-- Strengthening **problem-solving & logic**
-- Revising **OS, CN, DBMS** for interviews  
+- Practicing **DSA daily using Java**
+- Strengthening **problem-solving & logical thinking**
+- Improving **Core Java & OOP concepts**
 
 ---
 
 ## 📊 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamTh951&show_icons=true&theme=default)
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: (add later if you want)
+- GitHub: https://github.com/ShubhamTh951 
+- LinkedIn: https://www.linkedin.com/in/shubham-thakur-0b7b73286
 
 ---
 
