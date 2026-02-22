@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 - 🔹 Computer Science Engineering student  
-- 🔹 Strong interest in **C++, Java, and Core Subjects**  
+- 🔹 Strong interest in **C, C++, Java, and Core Subjects**  
 - 🔹 Learning by building projects and solving problems  
 - 🔹 Goal: Become a solid software engineer with strong fundamentals  
 
